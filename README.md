@@ -24,6 +24,10 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 
 ## 🛠️ Tecnologias e Ferramentas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,linux,git,github,docker,vscode,bash" />
+</p>
+
 ### Linguagens
 - Python (básico)
 - HTML5
