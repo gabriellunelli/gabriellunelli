@@ -72,14 +72,6 @@ Site realizado para nail designer.
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunellilayout=compact)
-
----
-
 ## 📫 Contato
 
 - LinkedIn: http://linkedin.com/in/gabriellunelli
