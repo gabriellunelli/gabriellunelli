@@ -24,19 +24,19 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Languages
+### 💻 Linguagens
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
-### ⚙️ Tools
+### ⚙️ Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-#### 🤖 AI Tools
+### 🤖 Ferramentas de IA
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -45,7 +45,7 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### Estudando atualmente
+### 📖 Estudando atualmente
 - Lógica de programação
 
 ---
