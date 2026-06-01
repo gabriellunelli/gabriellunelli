@@ -24,24 +24,26 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
+### 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html5,css3" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
-### Ferramentas
+### ⚙️ Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,claude,codex,chatgpt" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-- Git
-- GitHub
-- VS Code
-- Cursor
-- Claude
-- Codex
-- ChatGPT
+
+#### 🤖 AI Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ### Estudando atualmente
 - Lógica de programação
