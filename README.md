@@ -3,6 +3,7 @@
 🎓 Estudante de Tecnologia da Informação  
 ☁️ Focado em Cloud Computing, DevOps e Automação  
 📚 Atualmente estudando CS50x
+
 🚀 Construindo projetos para desenvolver minhas habilidades e criar um portfólio sólido
 
 ---
