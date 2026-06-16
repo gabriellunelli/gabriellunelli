@@ -63,7 +63,7 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 ### 📚 CS50x Projects
 Projetos e exercícios desenvolvidos durante o curso CS50x.
 
-### 💅 Site Emy Nails
+### 💅 Site Emy Nails V2.0
 Site realizado para nail designer.
 
 ---
