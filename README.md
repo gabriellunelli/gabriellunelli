@@ -60,11 +60,14 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 
 ## 📂 Projetos em Destaque
 
+### 💅 Site Emy Nails V2.0
+Site realizado para nail designer.
+
 ### 📚 CS50x Projects
 Projetos e exercícios desenvolvidos durante o curso CS50x.
 
-### 💅 Site Emy Nails V2.0
-Site realizado para nail designer.
+### 📚 SCTEC
+Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 
 ---
 
@@ -75,7 +78,6 @@ Site realizado para nail designer.
 - [ ] Dominar Linux
 - [ ] Aprender Docker
 - [ ] Estudar AWS
-- [ ] Publicar projetos completos no GitHub
 - [ ] Conseguir uma oportunidade de estágio na área de tecnologia
 
 ---
