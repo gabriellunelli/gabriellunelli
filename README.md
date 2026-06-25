@@ -2,7 +2,7 @@
 
 🎓 Estudante de Tecnologia da Informação  
 ☁️ Focado em Cloud Computing, DevOps e Automação  
-📚 Atualmente estudando CS50x
+📚 Atualmente estudando CS50x e SCTEC
 
 🚀 Construindo projetos para desenvolver minhas habilidades e criar um portfólio sólido
 
@@ -46,12 +46,15 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 </p>
 
 ### 📖 Estudando atualmente
+
 - Lógica de programação
+- Programação
 
 ---
 
 ## 📚 Formação e Cursos
 
+- SCTEC (Carreira Tech -Desenvolvimento Back-End) - SCTI e SENAI (Em andamento)
 - CS50x – Harvard University (Em andamento)
 - Jornada Python - Hashtag Treinamentos
 - Information Technology Fundamentals - IBM
