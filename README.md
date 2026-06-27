@@ -76,6 +76,26 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 
 ---
 
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabriellunelli&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gabriellunelli/gabriellunelli/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
 ## 🎯 Objetivos para 2026
 
 - [ ] Concluir CS50x
