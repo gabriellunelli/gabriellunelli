@@ -1,7 +1,7 @@
 <p align="center">
     <img src=".images/banner.png">
-  </a>
-  # 👋 Olá, eu sou Gabriel Lunelli
+</p>
+# 👋 Olá, eu sou Gabriel Lunelli
 
 🎓 Estudante de Tecnologia da Informação  
 ☁️ Focado em Cloud Computing, DevOps e Automação  
