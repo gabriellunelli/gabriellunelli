@@ -1,6 +1,9 @@
 <p align="center">
     <img src="/images/banner.png">
 </p>
+
+---
+
 # 👋 Olá, eu sou Gabriel Lunelli
 
 🎓 Estudante de Tecnologia da Informação  
