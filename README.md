@@ -120,7 +120,7 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 ---
 
 <p align="left">
-    <img src=".images/404.png" width: 40%;>
+    <img src="/images/404.png" width: 40%;>
   </a>
 </p>
 
