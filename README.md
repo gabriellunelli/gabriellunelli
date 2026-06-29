@@ -76,23 +76,21 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 
 ---
 
-## 🏆 Conquistas
+## 🏆 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabriellunelli&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunelli&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-## 🐍 Contribuições
+<p align="center">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=gabriellunelli&theme=tokyonight&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/gabriellunelli/gabriellunelli/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+</p>
 
 ---
 
