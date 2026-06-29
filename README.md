@@ -1,5 +1,11 @@
 # 👋 Olá, eu sou Gabriel Lunelli
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriellunelli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>
+
 🎓 Estudante de Tecnologia da Informação  
 ☁️ Focado em Cloud Computing, DevOps e Automação  
 📚 Atualmente estudando CS50x e SCTEC
