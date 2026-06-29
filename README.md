@@ -113,7 +113,7 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriellunelli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="/images/linkedin.png" target="_blank">
   </a>
 </p>
 
