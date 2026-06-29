@@ -67,16 +67,14 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 
 ## 📂 Projetos em Destaque
 
-### 💅 Site Emy Nails V2.0
+### [💅 Site Emy Nails V2.0](https://github.com/gabriellunelli/Emy-Nails-V2.0)
 Site realizado para nail designer.
-🔗 link: https://github.com/gabriellunelli/Emy-Nails-V2.0
 
 ### 📚 CS50x Projects
 Projetos e exercícios desenvolvidos durante o curso CS50x.
 
-### 📚 SCTEC
+### [📚 SCTEC](https://github.com/gabriellunelli/SCTEC)
 Projetos e exercícios desenvolvidos durante o curso do SCTEC.
-🔗 link: https://github.com/gabriellunelli/SCTEC
 
 ---
 
