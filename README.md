@@ -1,3 +1,29 @@
+<div align="center">
+
+# Gabriel Lunelli_
+
+### Back-end • Cloud • DevOps
+
+<sub>
+Construindo aplicações, automatizando processos e aprendendo todos os dias.
+</sub>
+
+<br>
+
+<a href="https://github.com/gabriellunelli">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gabriellunelli">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 <p align="center">
     <img src="/images/banner.png">
 </p>
