@@ -118,3 +118,7 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 > "Tudo o que fizerem, façam de todo o coração, como para o Senhor."
 >
 > **Colossenses 3:23**
+
+<p align="left">
+    <img src="/images/cruz.png" width="150">
+</p>
