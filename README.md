@@ -119,6 +119,6 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 >
 > **Colossenses 3:23**
 
-<p align="left">
+<p align="right">
     <img src="/images/cruz.png" width="150">
 </p>
