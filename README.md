@@ -1,3 +1,5 @@
+<body background-color="green">
+
 <p align="center">
     <img src="/images/banner.png">
 </p>
@@ -122,3 +124,6 @@ Projetos e exercícios desenvolvidos durante o curso do SCTEC.
 <p align="right">
     <img src="/images/cruz.png" width="150">
 </p>
+
+
+</body>
