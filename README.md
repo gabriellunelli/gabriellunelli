@@ -31,7 +31,7 @@ Atualmente estou desenvolvendo minha base em programação, sistemas operacionai
 ### 💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,node" />
 </p>
 
 ### ⚙️ Ferramentas
