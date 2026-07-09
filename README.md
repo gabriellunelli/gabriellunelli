@@ -1,128 +1,137 @@
-
-
-<p align="center">
-    <img src="/images/banner.png">
-</p>
-
-# 👋 Olá, eu sou Gabriel Lunelli
-
-🎓 Estudante de Tecnologia da Informação  
-☁️ Focado em Cloud Computing, DevOps e Automação  
-📚 Atualmente estudando CS50x e SCTEC
-
-🚀 Construindo projetos para desenvolver minhas habilidades e criar um portfólio sólido
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de TI e estou construindo minha carreira na área de tecnologia com foco em:
-
-- Cloud Computing
-- DevOps
-- Automação
-- Infraestrutura
-- Desenvolvimento Back-end
-
-Atualmente estou desenvolvendo minha base em programação, sistemas operacionais, Git e ferramentas utilizadas no mercado.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,nodejs" />
-</p>
-
-### ⚙️ Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🤖 Ferramentas de IA
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 📖 Estudando atualmente
-
-- Lógica de programação
-- Programação
-
----
-
-## 📚 Formação e Cursos
-
-- SCTEC (Carreira Tech -Desenvolvimento Back-End) - SCTI e SENAI (Em andamento)
-- CS50x – Harvard University (Em andamento)
-- Jornada Python - Hashtag Treinamentos
-- Information Technology Fundamentals - IBM
-
----
-
-## 📂 Projetos em Destaque
-
-### [💅 Site Emy Nails V2.0](https://github.com/gabriellunelli/Emy-Nails-V2.0)
-Site realizado para nail designer.
-
-### [📚 CS50x Projects](https://github.com/gabriellunelli/CS50x-Projects)
-Projetos e exercícios desenvolvidos durante o curso CS50x.
-
-### [📚 SCTEC](https://github.com/gabriellunelli/SCTEC)
-Projetos e exercícios desenvolvidos durante o curso do SCTEC.
-
----
-
-## 🏆 GitHub Stats
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
 <p align="center">
+  <img src="./images/banner.png" width="100%" alt="Gabriel Lunelli Banner">
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunelli&layout=compact&theme=tokyonight&hide_border=true"/>
+<h1 align="center">Gabriel Lunelli</h1>
 
+<p align="center">
+  <strong>Estudante de Tecnologia da Informação</strong>
+</p>
+
+<p align="center">
+  Focado em Cloud Computing • DevOps • Back-end
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Construindo+projetos+reais.;Aprendendo+todos+os+dias.;Linux+%7C+Cloud+%7C+DevOps.;Sempre+evoluindo." />
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabriellunelli&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/gabriellunelli">
+<img src="https://img.shields.io/github/followers/gabriellunelli?style=flat-square&label=Followers&color=181717">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gabriellunelli&style=flat-square&label=Profile+Views&color=181717">
+
+<a href="https://github.com/gabriellunelli?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=flat-square&logo=github">
+</a>
 
 </p>
 
 ---
 
-## 🎯 Objetivos para 2026
+# Sobre
 
-- [ ] Concluir CS50x
-- [ ] Aprender Java
-- [ ] Dominar Linux
-- [ ] Aprender Docker
-- [ ] Estudar AWS
-- [ ] Conseguir uma oportunidade de estágio na área de tecnologia
+Sou estudante de **Tecnologia da Informação** e estou construindo uma carreira focada em **Cloud Computing**, **DevOps** e **Desenvolvimento Back-end**.
+
+Acredito que a melhor forma de aprender é colocando a mão na massa. Por isso, busco desenvolver projetos reais, estudar documentação oficial e aprofundar meus conhecimentos em Linux, infraestrutura e automação.
+
+Meu objetivo é evoluir constantemente, construir soluções de qualidade e me preparar para atuar profissionalmente na área de tecnologia.
 
 ---
 
-## 📫 Contato
+# Terminal
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriellunelli" target="_blank">
-    <img src="/images/linkedin.png" width="150">
-  </a>
-</p>
+```bash
+gabriel@linux:~$
 
-> "Tudo o que fizerem, façam de todo o coração, como para o Senhor."
->
-> **Colossenses 3:23**
+$ whoami
 
-<p align="right">
-    <img src="/images/cruz.png" width="150">
-</p>
+Gabriel Lunelli
 
+$ role
 
+Estudante de Tecnologia da Informação
+
+$ focus
+
+Cloud Computing
+
+DevOps
+
+Back-end
+
+$ currently
+
+• Desenvolvendo meu portfólio
+
+• Estudando Linux
+
+• Aprendendo Docker
+
+• Construindo projetos
+
+• Evoluindo todos os dias
+
+$ dream
+
+Tornar-me Engenheiro de Cloud e DevOps.
+```
+
+---
+
+# Atualmente
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## Construindo
+
+- Portfólio
+- Projetos CS50x
+- Projetos SCTEC
+- Perfil GitHub
+- Landing Pages
+
+</td>
+
+<td width="33%" valign="top">
+
+## Aprendendo
+
+- Linux
+- Git
+- JavaScript
+- Node.js
+- Docker
+
+</td>
+
+<td width="33%" valign="top">
+
+## Objetivo
+
+Primeira oportunidade em Tecnologia.
+
+Construir uma base sólida em Cloud e DevOps.
+
+Criar projetos cada vez mais completos.
+
+</td>
+
+</tr>
+
+</table>
+
+---
