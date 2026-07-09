@@ -305,3 +305,91 @@ Tecnologias que utilizo atualmente e ferramentas que fazem parte da minha jornad
 </table>
 
 ---
+
+<!-- ======================================================== -->
+<!--                   FEATURED PROJECTS                      -->
+<!-- ======================================================== -->
+
+# Featured Projects
+
+<p align="center">
+Projetos que representam minha evolução como desenvolvedor e estudante de Tecnologia da Informação.
+</p>
+
+<br>
+
+<!-- ================= Emy Nails ================= -->
+
+<a href="https://github.com/gabriellunelli/Emy-Nails-V2.0">
+
+<img width="100%" src="./images/projects/emy-banner.png"/>
+
+</a>
+
+### 💅 Emy Nails
+
+Landing Page desenvolvida para uma Nail Designer, focada em design moderno, responsividade e experiência do usuário.
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+</p>
+
+<a href="https://github.com/gabriellunelli/Emy-Nails-V2.0">
+
+<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+
+</a>
+
+---
+
+<!-- ================= CS50 ================= -->
+
+<a href="https://github.com/gabriellunelli/CS50x-Projects">
+
+<img width="100%" src="./images/projects/cs50-banner.png"/>
+
+</a>
+
+### 📚 CS50x
+
+Projetos desenvolvidos durante o curso CS50x da Harvard University.
+
+Aplicação prática de lógica de programação, algoritmos e resolução de problemas.
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,python,sqlite"/>
+
+</p>
+
+<a href="https://github.com/gabriellunelli/CS50x-Projects">
+
+<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+
+</a>
+
+---
+
+<!-- ================= SCTEC ================= -->
+
+<a href="https://github.com/gabriellunelli/SCTEC">
+
+<img width="100%" src="./images/projects/sctec-banner.png"/>
+
+</a>
+
+### ⚙️ SCTEC
+
+Projetos desenvolvidos durante minha formação Back-end na SCTEC.
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,git"/>
+
+</p>
+
+<a href="https://github.com/gabriellunelli/SCTEC">
+
+<img src="https://img.shields
