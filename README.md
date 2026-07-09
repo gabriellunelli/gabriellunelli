@@ -135,3 +135,173 @@ Criar projetos cada vez mais completos.
 </table>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
+
+# Tech Stack
+
+<p align="center">
+Tecnologias que utilizo atualmente e ferramentas que fazem parte da minha jornada.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## Linguagens
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" /><br>
+<b>HTML</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=css" /><br>
+<b>CSS</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=javascript" /><br>
+<b>JavaScript</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" /><br>
+<b>Python</b>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+## Desenvolvimento
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" /><br>
+<b>Node.js</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<b>Git</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github" /><br>
+<b>GitHub</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode" /><br>
+<b>VS Code</b>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+## Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" /><br>
+<b>Linux</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker" /><br>
+<b>Docker</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws" /><br>
+<b>AWS</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=bash" /><br>
+<b>Bash</b>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Atualmente Estudando
+
+<table>
+
+<tr>
+
+<td>
+
+🟢 Linux
+
+</td>
+
+<td>
+
+🟢 Docker
+
+</td>
+
+<td>
+
+🟢 Java
+
+</td>
+
+<td>
+
+🟢 AWS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🟡 Kubernetes
+
+</td>
+
+<td>
+
+🟡 Terraform
+
+</td>
+
+<td>
+
+🟡 GitHub Actions
+
+</td>
+
+<td>
+
+🟡 CI/CD
+
+</td>
+
+</tr>
+
+</table>
+
+---
