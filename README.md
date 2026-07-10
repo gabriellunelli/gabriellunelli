@@ -487,3 +487,104 @@ src="https://raw.githubusercontent.com/gabriellunelli/gabriellunelli/output/gith
 > A animação da Snake é gerada automaticamente através de uma GitHub Action.
 
 ---
+
+<!-- ======================================================== -->
+<!--                    ROADMAP                              -->
+<!-- ======================================================== -->
+
+# Roadmap
+
+> Minha jornada está apenas começando. Meu objetivo é construir uma carreira sólida em Cloud Computing e DevOps através de aprendizado contínuo e projetos reais.
+
+<br>
+
+### 2026
+
+- ✅ Concluir a formação Back-end da SCTEC
+- ⏳ Finalizar o CS50x
+- ⏳ Aprender Java
+- ⏳ Dominar Linux
+- ⏳ Aprender Docker
+- ⏳ Estudar AWS
+- ⏳ Construir projetos completos
+- ⏳ Conquistar minha primeira oportunidade em Tecnologia
+
+---
+
+### Próximos passos
+
+```text
+Cloud Computing
+
+████████████░░░░░░░
+
+Linux
+
+███████████████░░░░
+
+Docker
+
+████████░░░░░░░░░░░
+
+AWS
+
+██████░░░░░░░░░░░░░
+
+Kubernetes
+
+███░░░░░░░░░░░░░░░░
+
+Terraform
+
+██░░░░░░░░░░░░░░░░░
+
+CI/CD
+
+██░░░░░░░░░░░░░░░░░
+```
+
+---
+
+# Vamos nos conectar
+
+<p align="center">
+
+<a href="https://github.com/gabriellunelli">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/gabriellunelli">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+💬 Sempre aberto para aprender, colaborar e compartilhar conhecimento.
+
+</p>
+
+---
+
+<p align="center">
+
+> **"Tudo o que fizerem, façam de todo o coração, como para o Senhor."**
+
+**Colossenses 3:23**
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=120&section=footer"/>
+
+</p>
