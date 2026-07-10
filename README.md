@@ -392,4 +392,28 @@ Projetos desenvolvidos durante minha formação Back-end na SCTEC.
 
 <a href="https://github.com/gabriellunelli/SCTEC">
 
-<img src="https://img.shields
+<img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+
+</a>
+
+---
+
+<!-- ================= FlowZen ================= -->
+
+<img width="100%" src="./images/projects/flowzen-banner.png"/>
+
+### 🚀 FlowZen
+
+Sistema SaaS para automação de agendamentos utilizando Inteligência Artificial.
+
+Projeto em desenvolvimento.
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,docker,postgres,supabase"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/Em%20Desenvolvimento-181717?style=for-the-badge">
+
+---
