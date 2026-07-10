@@ -2,7 +2,13 @@
     <img src="/images/banner.png">
 </p>
 
-# 👋 Olá, eu sou Gabriel Lunelli
+# Gabriel Lunelli_
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=3500&pause=1500&color=EAEAEA&center=true&vCenter=true&width=850&lines=Cloud.;DevOps.;Backend.;Linux.;Automação."/>
+
+</p>
 
 🎓 Estudante de Tecnologia da Informação  
 ☁️ Focado em Cloud Computing, DevOps e Automação  
