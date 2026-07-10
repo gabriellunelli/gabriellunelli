@@ -2,8 +2,6 @@
   <img src="images/newbanner.png" width="100%">
 </p>
 
-<h1 align="center">Gabriel Lunelli</h1>
-
 <table align="center">
 <tr>
 
