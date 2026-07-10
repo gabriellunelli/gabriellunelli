@@ -4,78 +4,37 @@
 
 <h1 align="center">Gabriel Lunelli</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Tecnologia+da+Informação;Focado+em+Cloud+e+DevOps;Sempre+aprendendo+algo+novo." />
-</p>
-
----
-
-<table>
+<table align="center">
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou estudante de Tecnologia da Informação.
 
-Meu foco é construir uma carreira em:
+Focado em:
 
-- ☁️ Cloud
-- ⚙️ DevOps
-- 🐧 Linux
-- 🚀 Back-end
-
----
-
-### 📖 Atualmente
-
-- CS50x
-- SCTEC
-- Docker
-- Java
-- Linux
-
----
-
-### 🎯 Objetivos
-
-- Estágio em TI
-- AWS
-- Kubernetes
-- Terraform
+- Cloud
+- DevOps
+- Back-end
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-## 💻 Terminal
 
-```bash
-gabriel@linux:~$
+## Estudando atualmente
 
-$ whoami
-Gabriel Lunelli
-
-$ role
-IT Student
-
-$ focus
-Cloud
-DevOps
-
-$ status
-Learning...
-```
+- CS50x - Harvard University
+- Carreira Tech (Desenvolvimento Back-End) - SCTEC (SCTI e SENAI/SC) 
 
 </td>
 
 </tr>
 </table>
 
----
-
-# 🚀 Projetos
+<h1 align="center">Projetos</h1>
 
 <table>
 
@@ -83,43 +42,25 @@ Learning...
 
 <td width="33%">
 
-### 💅 Emy Nails
+### 💅 [Emy Nails](https://github.com/gabriellunelli/Emy-Nails-V2.0)
 
-Landing Page
-
-<a href="https://github.com/gabriellunelli/Emy-Nails-V2.0">
-
-<img src="images/emy.png">
-
-</a>
+Site realizado para Nail Designer, com agendamento via mensagem pronta direcionada ao Whatsapp.
 
 </td>
 
 <td width="33%">
 
-### 📚 CS50x
+### 📚 [CS50x](https://github.com/gabriellunelli/CS50x-Projects)
 
-Projetos Harvard
-
-<a href="https://github.com/gabriellunelli/CS50x-Projects">
-
-<img src="images/cs50.png">
-
-</a>
+Exercícios realizados para o CS50x de Harvard.
 
 </td>
 
 <td width="33%">
 
-### ⚙️ SCTEC
+### ⚙️ [SCTEC](https://github.com/gabriellunelli/SCTEC)
 
-Projetos Backend
-
-<a href="https://github.com/gabriellunelli/SCTEC">
-
-<img src="images/sctec.png">
-
-</a>
+Exercícios do SCTEC.
 
 </td>
 
@@ -127,31 +68,13 @@ Projetos Backend
 
 </table>
 
----
+<h1 align="center">Github</h1>
 
-# 📊 GitHub
-
-<table>
+<table align="center">
 
 <tr>
 
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunelli&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
+<td colspan="2" align="center">
 
 <img src="https://streak-stats.demolab.com?user=gabriellunelli&theme=tokyonight&hide_border=true"/>
 
@@ -161,7 +84,7 @@ Projetos Backend
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellunelli&theme=github-compact&hide_border=true"/>
 
@@ -171,7 +94,7 @@ Projetos Backend
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" align="center">
 
 <img src="https://raw.githubusercontent.com/gabriellunelli/gabriellunelli/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -181,39 +104,43 @@ Projetos Backend
 
 </table>
 
----
+<h1 align="center">Stack</h1>
 
-# 🛠 Stack
+<h2 align="center">Linguagens</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,html,css,js,nodejs,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python"/>
 
 </p>
 
----
-
-# 🤝 Contato
+<h2 align="center">Ferramentas</h2>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/gabriellunelli">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+<h2 align="center">Ferramentas de I.A</h2>
+
+<p align="center">
+
+<img src=""/>
+
+</p>
+
+<h1 align="center">Contato</h1>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/gabriellunelli" target="blank_">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/gabriellunelli">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
 </p>
-
----
 
 <p align="center">
 
