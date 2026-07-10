@@ -417,3 +417,73 @@ Projeto em desenvolvimento.
 <img src="https://img.shields.io/badge/Em%20Desenvolvimento-181717?style=for-the-badge">
 
 ---
+
+<!-- ======================================================== -->
+<!--                    GITHUB DASHBOARD                      -->
+<!-- ======================================================== -->
+
+# GitHub Dashboard
+
+<p align="center">
+Uma visão geral da minha atividade, evolução e contribuições no GitHub.
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunelli&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+width="100%"
+src="https://streak-stats.demolab.com?user=gabriellunelli&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellunelli&theme=github-dark&hide_border=true&radius=12"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriellunelli&theme=github_dark"/>
+
+</p>
+
+<br>
+
+# Contribuições
+
+<p align="center">
+
+<img
+width="100%"
+src="https://raw.githubusercontent.com/gabriellunelli/gabriellunelli/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> A animação da Snake é gerada automaticamente através de uma GitHub Action.
+
+---
