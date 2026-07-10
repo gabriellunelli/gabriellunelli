@@ -5,9 +5,7 @@
 # Gabriel Lunelli_
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=3500&pause=1500&color=EAEAEA&center=true&vCenter=true&width=850&lines=Cloud.;DevOps.;Backend.;Linux.;Automação."/>
-
+  <img src="https://readme-typing-svg.demolab.com?         font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Gabriel+Lunelli;Estudante+de+Tecnologia+da+Informação;Focado+em+Cloud+e+DevOps" alt="Typing SVG" />
 </p>
 
 🎓 Estudante de Tecnologia da Informação  
