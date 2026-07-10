@@ -1,128 +1,224 @@
 <p align="center">
-    <img src="/images/banner.png">
+  <img src="images/banner.png" width="100%">
 </p>
 
-# Gabriel Lunelli_
+<h1 align="center">Gabriel Lunelli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?         font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Gabriel+Lunelli;Estudante+de+Tecnologia+da+Informação;Focado+em+Cloud+e+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Tecnologia+da+Informação;Focado+em+Cloud+e+DevOps;Sempre+aprendendo+algo+novo." />
 </p>
-
-🎓 Estudante de Tecnologia da Informação  
-☁️ Focado em Cloud Computing, DevOps e Automação  
-📚 Atualmente estudando CS50x e SCTEC
-
-🚀 Construindo projetos para desenvolver minhas habilidades e criar um portfólio sólido
 
 ---
 
-## 🚀 Sobre mim
+<table>
+<tr>
 
-Sou estudante de TI e estou construindo minha carreira na área de tecnologia com foco em:
+<td width="55%" valign="top">
 
-- Cloud Computing
-- DevOps
-- Automação
-- Infraestrutura
-- Desenvolvimento Back-end
+## 👋 Sobre mim
 
-Atualmente estou desenvolvendo minha base em programação, sistemas operacionais, Git e ferramentas utilizadas no mercado.
+Sou estudante de Tecnologia da Informação.
 
----
+Meu foco é construir uma carreira em:
 
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,nodejs" />
-</p>
-
-### ⚙️ Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🤖 Ferramentas de IA
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 📖 Estudando atualmente
-
-- Lógica de programação
-- Programação
+- ☁️ Cloud
+- ⚙️ DevOps
+- 🐧 Linux
+- 🚀 Back-end
 
 ---
 
-## 📚 Formação e Cursos
+### 📖 Atualmente
 
-- SCTEC (Carreira Tech -Desenvolvimento Back-End) - SCTI e SENAI (Em andamento)
-- CS50x – Harvard University (Em andamento)
-- Jornada Python - Hashtag Treinamentos
-- Information Technology Fundamentals - IBM
-
----
-
-## 📂 Projetos em Destaque
-
-### [💅 Site Emy Nails V2.0](https://github.com/gabriellunelli/Emy-Nails-V2.0)
-Site realizado para nail designer.
-
-### [📚 CS50x Projects](https://github.com/gabriellunelli/CS50x-Projects)
-Projetos e exercícios desenvolvidos durante o curso CS50x.
-
-### [📚 SCTEC](https://github.com/gabriellunelli/SCTEC)
-Projetos e exercícios desenvolvidos durante o curso do SCTEC.
+- CS50x
+- SCTEC
+- Docker
+- Java
+- Linux
 
 ---
 
-## 🏆 GitHub Stats
+### 🎯 Objetivos
 
-<p align="center">
+- Estágio em TI
+- AWS
+- Kubernetes
+- Terraform
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunelli&layout=compact&theme=tokyonight&hide_border=true"/>
+<td width="45%" valign="top">
 
-</p>
+## 💻 Terminal
 
-<p align="center">
+```bash
+gabriel@linux:~$
+
+$ whoami
+Gabriel Lunelli
+
+$ role
+IT Student
+
+$ focus
+Cloud
+DevOps
+
+$ status
+Learning...
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Projetos
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### 💅 Emy Nails
+
+Landing Page
+
+<a href="https://github.com/gabriellunelli/Emy-Nails-V2.0">
+
+<img src="images/emy.png">
+
+</a>
+
+</td>
+
+<td width="33%">
+
+### 📚 CS50x
+
+Projetos Harvard
+
+<a href="https://github.com/gabriellunelli/CS50x-Projects">
+
+<img src="images/cs50.png">
+
+</a>
+
+</td>
+
+<td width="33%">
+
+### ⚙️ SCTEC
+
+Projetos Backend
+
+<a href="https://github.com/gabriellunelli/SCTEC">
+
+<img src="images/sctec.png">
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabriellunelli&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellunelli&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
 
 <img src="https://streak-stats.demolab.com?user=gabriellunelli&theme=tokyonight&hide_border=true"/>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellunelli&theme=github-compact&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<img src="https://raw.githubusercontent.com/gabriellunelli/gabriellunelli/output/github-contribution-grid-snake-dark.svg"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠 Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,html,css,js,nodejs,python"/>
+
 </p>
 
 ---
 
-## 🎯 Objetivos para 2026
+# 🤝 Contato
 
-- [ ] Concluir CS50x
-- [ ] Aprender Java
-- [ ] Dominar Linux
-- [ ] Aprender Docker
-- [ ] Estudar AWS
-- [ ] Conseguir uma oportunidade de estágio na área de tecnologia
+<p align="center">
+
+<a href="https://linkedin.com/in/gabriellunelli">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/gabriellunelli">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
 
 ---
 
-## 📫 Contato
+<p align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriellunelli" target="_blank">
-    <img src="/images/linkedin.png" width="150">
-  </a>
-</p>
+> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."*
 
-> "Tudo o que fizerem, façam de todo o coração, como para o Senhor."
->
-> **Colossenses 3:23**
+**Colossenses 3:23**
 
-<p align="right">
-    <img src="/images/cruz.png" width="150">
 </p>
