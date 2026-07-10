@@ -148,6 +148,8 @@ Exercícios do SCTEC.
 
 </p>
 
+---
+
 <p align="center">
 
 > *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."*
