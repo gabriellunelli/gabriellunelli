@@ -24,8 +24,9 @@ Focado em:
 
 ## Estudando atualmente
 
-- CS50x - Harvard University
-- Carreira Tech (Desenvolvimento Back-End) - SCTEC (SCTI e SENAI/SC) 
+- CS50 Python - Harvard University
+- Carreira Tech (Desenvolvimento Back-End) - SCTEC (SCTI e SENAI/SC)
+- LFS101 - Linux Foundation
 
 </td>
 
