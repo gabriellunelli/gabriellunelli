@@ -120,6 +120,14 @@ Exercícios do SCTEC.
 
 </p>
 
+<h2 align="center">Tecnologias</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
 <h2 align="center">Ferramentas de I.A</h2>
 
 <p align="center">
