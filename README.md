@@ -49,9 +49,9 @@ Site realizado para Nail Designer, com agendamento via mensagem pronta direciona
 
 <td width="33%">
 
-### 📚 [CS50x](https://github.com/gabriellunelli/CS50x-Projects)
+### 📚 [CS50 Python](https://github.com/gabriellunelli/CS50_Python)
 
-Exercícios realizados para o CS50x de Harvard.
+Exercícios realizados para o CS50's Introduction to programming with Python - Harvard University.
 
 </td>
 
