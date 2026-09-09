@@ -109,7 +109,7 @@ Exercícios do SCTEC.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python"/>
 
 </p>
 
