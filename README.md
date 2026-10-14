@@ -24,9 +24,8 @@ Focado em:
 
 ## Estudando atualmente
 
-- CS50 Python - Harvard University
 - Carreira Tech (Desenvolvimento Back-End) - SCTEC (SCTI e SENAI/SC)
-- LFS101 - Linux Foundation
+- Formação Linux Completa: Do Básico ao Avançado - Udemy
 
 </td>
 
@@ -125,7 +124,7 @@ Exercícios do SCTEC.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux, psql"/>
 
 </p>
 
