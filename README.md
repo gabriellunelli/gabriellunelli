@@ -124,7 +124,7 @@ Exercícios do SCTEC.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux, psql"/>
+<img src="https://skillicons.dev/icons?i=linux,postgresql"/>
 
 </p>
 
