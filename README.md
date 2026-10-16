@@ -56,9 +56,9 @@ Exercícios realizados para o CS50's Introduction to programming with Python - H
 
 <td width="33%">
 
-### ⚙️ [SCTEC](https://github.com/gabriellunelli/SCTEC)
+### ⚙️ [Pokédex TypeScript Lite](https://github.com/gabriellunelli/PokedexTypeScriptLite)
 
-Exercícios do SCTEC.
+Mini-projeto realizado para o curso de Desenvolvimento Back-End do SCTEC. ([Meus exercícios do SCTEC](https://github.com/gabriellunelli/SCTEC))
 
 </td>
 
