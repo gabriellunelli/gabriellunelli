@@ -13,7 +13,7 @@ Sou estudante de Tecnologia da Informação.
 
 Focado em:
 
-- Cloud
+- Pentest & Red Team
 - DevOps
 - Back-end
 
@@ -25,7 +25,7 @@ Focado em:
 ## Estudando atualmente
 
 - Carreira Tech (Desenvolvimento Back-End) - SCTEC (SCTI e SENAI/SC)
-- Formação Linux Completa: Do Básico ao Avançado - Udemy
+- Linux Essentials - LINUXTips
 
 </td>
 
