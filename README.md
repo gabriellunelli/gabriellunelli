@@ -13,9 +13,8 @@ Sou estudante de Tecnologia da Informação.
 
 Focado em:
 
-- Pentest & Red Team
-- DevOps
 - Back-end
+- Futuro Pentester & Red Team
 
 </td>
 
@@ -107,41 +106,29 @@ Mini-projeto realizado para o curso de Desenvolvimento Back-End do SCTEC. ([Meus
 <h2 align="center">Linguagens</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python"/>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
 </p>
 
-<h2 align="center">Ferramentas</h2>
+<h2 align="center">Backend & Banco de Dados</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql"/>
 </p>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Ferramentas & Ambiente</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,postgresql"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-<h2 align="center">Ferramentas de I.A</h2>
+<h2 align="center">Ferramentas de IA</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 <h1 align="center">Contato</h1>
